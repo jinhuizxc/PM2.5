@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml:3:5-27
+		INJECTED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml:13:22-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml:15:22-76
+application
+ADDED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml:17:5-30:19
+	android:label
+		ADDED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml:19:9-41
+	android:icon
+		ADDED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml:18:9-45
+	android:theme
+		ADDED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml:20:9-62
+activity#com.way.pm25.PM25Activity
+ADDED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:screenOrientation
+		ADDED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml:23:13-49
+	android:name
+		ADDED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml:22:13-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from D:\workspace-studio\PM2.5\app\src\main\AndroidManifest.xml:27:27-74

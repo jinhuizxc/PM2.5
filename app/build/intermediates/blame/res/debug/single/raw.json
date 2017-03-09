@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\workspace-studio\\PM2.5\\app\\build\\intermediates\\res\\merged\\debug\\raw\\paper_rip.mp3",
+        "source": "D:\\workspace-studio\\PM2.5\\app\\src\\main\\res\\raw\\paper_rip.mp3"
+    },
+    {
+        "merged": "D:\\workspace-studio\\PM2.5\\app\\build\\intermediates\\res\\merged\\debug\\raw\\print.mp3",
+        "source": "D:\\workspace-studio\\PM2.5\\app\\src\\main\\res\\raw\\print.mp3"
+    }
+]

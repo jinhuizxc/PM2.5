@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\workspace-studio\\PM2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\aqi_frame.png",
+        "source": "D:\\workspace-studio\\PM2.5\\app\\src\\main\\res\\drawable-xhdpi\\aqi_frame.png"
+    },
+    {
+        "merged": "D:\\workspace-studio\\PM2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\share.png",
+        "source": "D:\\workspace-studio\\PM2.5\\app\\src\\main\\res\\drawable-xhdpi\\share.png"
+    },
+    {
+        "merged": "D:\\workspace-studio\\PM2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ticket_shadow.png",
+        "source": "D:\\workspace-studio\\PM2.5\\app\\src\\main\\res\\drawable-xhdpi\\ticket_shadow.png"
+    },
+    {
+        "merged": "D:\\workspace-studio\\PM2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\led.png",
+        "source": "D:\\workspace-studio\\PM2.5\\app\\src\\main\\res\\drawable-xhdpi\\led.png"
+    },
+    {
+        "merged": "D:\\workspace-studio\\PM2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg.png",
+        "source": "D:\\workspace-studio\\PM2.5\\app\\src\\main\\res\\drawable-xhdpi\\bg.png"
+    },
+    {
+        "merged": "D:\\workspace-studio\\PM2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ticket_paper.9.png",
+        "source": "D:\\workspace-studio\\PM2.5\\app\\src\\main\\res\\drawable-xhdpi\\ticket_paper.9.png"
+    },
+    {
+        "merged": "D:\\workspace-studio\\PM2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\body.png",
+        "source": "D:\\workspace-studio\\PM2.5\\app\\src\\main\\res\\drawable-xhdpi\\body.png"
+    },
+    {
+        "merged": "D:\\workspace-studio\\PM2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_next_default.png",
+        "source": "D:\\workspace-studio\\PM2.5\\app\\src\\main\\res\\drawable-xhdpi\\btn_next_default.png"
+    },
+    {
+        "merged": "D:\\workspace-studio\\PM2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo.png",
+        "source": "D:\\workspace-studio\\PM2.5\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\workspace-studio\\PM2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_print_default.png",
+        "source": "D:\\workspace-studio\\PM2.5\\app\\src\\main\\res\\drawable-xhdpi\\btn_print_default.png"
+    },
+    {
+        "merged": "D:\\workspace-studio\\PM2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ticket_out.png",
+        "source": "D:\\workspace-studio\\PM2.5\\app\\src\\main\\res\\drawable-xhdpi\\ticket_out.png"
+    },
+    {
+        "merged": "D:\\workspace-studio\\PM2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_print_pressed.png",
+        "source": "D:\\workspace-studio\\PM2.5\\app\\src\\main\\res\\drawable-xhdpi\\btn_print_pressed.png"
+    },
+    {
+        "merged": "D:\\workspace-studio\\PM2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\workspace-studio\\PM2.5\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspace-studio\\PM2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_next_pressed.png",
+        "source": "D:\\workspace-studio\\PM2.5\\app\\src\\main\\res\\drawable-xhdpi\\btn_next_pressed.png"
+    }
+]

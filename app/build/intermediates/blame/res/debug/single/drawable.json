@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\workspace-studio\\PM2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_btn_selector.xml",
+        "source": "D:\\workspace-studio\\PM2.5\\app\\src\\main\\res\\drawable\\share_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\PM2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_next_selector.xml",
+        "source": "D:\\workspace-studio\\PM2.5\\app\\src\\main\\res\\drawable\\btn_next_selector.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\PM2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_print_selector.xml",
+        "source": "D:\\workspace-studio\\PM2.5\\app\\src\\main\\res\\drawable\\btn_print_selector.xml"
+    }
+]

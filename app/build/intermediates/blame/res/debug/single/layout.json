@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\workspace-studio\\PM2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\workspace-studio\\PM2.5\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\PM2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\paper_item.xml",
+        "source": "D:\\workspace-studio\\PM2.5\\app\\src\\main\\res\\layout\\paper_item.xml"
+    }
+]
